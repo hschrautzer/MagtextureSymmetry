@@ -1,0 +1,19 @@
+{
+    "per_bound": [true, true, true],
+    "latt_const": [1.0, 1.0, 1.0],
+    "latt_vecs": {
+        "a1": [1.0, 0.0, 0.0],
+        "a2": [0.0, 1.0, 0.0],
+        "a3": [0.0, 0.0, 1.0]
+    },
+    "latt_dim": [256, 256, 1],
+    "unitcell": {
+        "atoms": [
+            {
+                "position": [0.0, 0.0, 0.0],
+                "magmom": 1.0,
+                "species": 1
+            }
+        ]
+    }
+}
